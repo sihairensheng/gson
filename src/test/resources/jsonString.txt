@@ -1,0 +1,88 @@
+[
+  {
+    "name": "zhangsan",
+    "age": "10",
+    "phone": "11111",
+    "email": "11111@11.com"
+  },
+  {
+    "name": "lisi",
+    "age": "20",
+    "phone": "22222",
+    "email": "22222@22.com"
+  }
+]
+
+{
+  "muser": [
+    {
+      "name": "zhangsan",
+      "age": "10",
+      "phone": "11111",
+      "email": "11111@11.com"
+    },
+    {
+      "name": "lisi",
+      "age": "20",
+      "phone": "22222",
+      "email": "22222@22.com"
+    }
+  ]
+}
+
+{
+  "code": 200,
+  "msg": "OK",
+  "muser": [
+    {
+      "name": "zhangsan",
+      "age": "10",
+      "phone": "11111",
+      "email": "11111@11.com"
+    },
+    {
+      "name": "lisi",
+      "age": "20",
+      "phone": "22222",
+      "email": "22222@22.com"
+    }
+  ]
+}
+
+{
+  "group": {
+    "user": {
+      "name": "张三",
+      "age": "10",
+      "phone": "11111",
+      "email": "11111@11.com"
+    },
+    "info": {
+      "address": "北京",
+      "work": "Android Dev",
+      "pay": "10K",
+      "motto": "先定一个小目标，比如我先赚一个亿"
+    }
+  }
+}
+
+[
+   {
+     "id": 912345678901,
+     "text": "How do I read JSON on Android?",
+     "geo": null,
+     "user": {
+       "name": "android_newb",
+       "followers_count": 41
+    　　}
+   },
+   {
+     "id": 912345678902,
+     "text": "@android_newb just use android.util.JsonReader!",
+     "geo": [50.454722, -104.606667],
+     "user": {
+       "name": "jesse",
+       "followers_count": 2
+     }
+   }
+ ]
